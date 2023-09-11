@@ -870,11 +870,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79521\\Desktop\\git-actually\\helloapp-black\\LeetCodeTasks\\LeetCodeTasks\\LeetCodeTasks.csproj",
-      "projectName": "LeetCodeTasks",
-      "projectPath": "C:\\Users\\79521\\Desktop\\git-actually\\helloapp-black\\LeetCodeTasks\\LeetCodeTasks\\LeetCodeTasks.csproj",
+      "projectUniqueName": "C:\\Users\\79521\\Desktop\\git-actually\\helloapp-black\\LeetCodeTasks\\Tasks\\Tasks.csproj",
+      "projectName": "Tasks",
+      "projectPath": "C:\\Users\\79521\\Desktop\\git-actually\\helloapp-black\\LeetCodeTasks\\Tasks\\Tasks.csproj",
       "packagesPath": "C:\\Users\\79521\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79521\\Desktop\\git-actually\\helloapp-black\\LeetCodeTasks\\LeetCodeTasks\\obj\\",
+      "outputPath": "C:\\Users\\79521\\Desktop\\git-actually\\helloapp-black\\LeetCodeTasks\\Tasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\79521\\AppData\\Roaming\\NuGet\\NuGet.Config",
