@@ -7,7 +7,7 @@ public class JumpGame
         var n = nums.Length;
         var maxReach = 0;
 
-        for (int i = 0; i < n; i++)
+        for (var i = 0; i < n; i++)
         {
             if (i > maxReach)
                 return false;
