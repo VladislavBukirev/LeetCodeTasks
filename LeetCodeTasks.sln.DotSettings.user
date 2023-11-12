@@ -12,5 +12,6 @@
     &lt;TestId&gt;NUnit3x::5A32DCFB-D424-44C4-B075-B31F7016F580::net6.0::SolutionTests.InorderTraversal_WhenNonEmptyTree_ReturnsCorrectOrderedList&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::5A32DCFB-D424-44C4-B075-B31F7016F580::net6.0::SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::5A32DCFB-D424-44C4-B075-B31F7016F580::net6.0::AddTwoNumbersTests.AddTwoNumbersTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5A32DCFB-D424-44C4-B075-B31F7016F580::net6.0::LeetCodeTasks.DungeonGameTests.TestDungeonGame&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
